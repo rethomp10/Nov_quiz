@@ -1,0 +1,32 @@
+		p {
+			font-family: 'Georgia', serif;
+			font-size: 16px; 
+			color: #111;
+		}
+		img {
+			margin: 30px;
+			border: 2px solid orangered
+		}
+		
+		/*This is where my ID 'name' is styled.*/
+		#name {
+			color: red;
+		}
+		#byline {
+			color: #282828;
+			font-style: italic;
+			text-align: center;
+		}
+
+		/*This is where my class 'info' is styled.*/
+		.info {
+			color: skyblue;
+		}
+		.pull-quote {
+			margin-left: 10px;
+			border: 2px dashed orangered;
+			text-align: center;
+			font-style: italic;
+			font-size: 20px;
+			color: #007A36
+		}
